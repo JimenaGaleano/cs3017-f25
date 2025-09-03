@@ -4,6 +4,7 @@
 > How to create a website
 > 
 > How to design a website
+
 ### Pros
 + :)
 ### Cons
@@ -17,6 +18,7 @@
 > Physics D:
 > 
 > Calc 3?
+
 ### Pros
 + :)
 ### Cons
@@ -30,6 +32,7 @@
 >  I am so scared
 > 
 >  Hopefully, I do not drop it
+
 ### Pros
 + :)
 ### Cons
@@ -43,6 +46,7 @@
 >  I like to learn about what is happening in the world
 > 
 >  A look of reading
+
 ### Pros
 + :)
 ### Cons
