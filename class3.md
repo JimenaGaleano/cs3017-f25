@@ -2,6 +2,7 @@
 
 ## Web Design 
 > How to create a website
+> 
 > How to design a website
 ### Pros
 + :)
@@ -12,7 +13,9 @@
 
 ## Calculus 2
 > Integers
+> 
 > Physics D:
+> 
 > Calc 3?
 ### Pros
 + :)
@@ -23,7 +26,9 @@
 
 ## CS 219 
 > Already difficult
+> 
 >  I am so scared
+> 
 >  Hopefully, I do not drop it
 ### Pros
 + :)
@@ -34,7 +39,9 @@
 
 ## Comparative Politics 
 > Quite fun
+> 
 >  I like to learn about what is happening in the world
+> 
 >  A look of reading
 ### Pros
 + :)
