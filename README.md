@@ -41,3 +41,8 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 [subsection example](#subsection-example)
 
 [About Me](about.md)
+
+# Example Image 
+![Trees!](tress.jpg)
+
+
